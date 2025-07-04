@@ -6,3 +6,4 @@ There are multiple
 deatures
 each and every 
 suddently
+dore,one
