@@ -5,3 +5,4 @@ This is the AI ChatBot for coder, developer and engineers. You can ask everythin
 There are multiple 
 deatures
 each and every 
+suddently
