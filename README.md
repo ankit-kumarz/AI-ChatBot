@@ -7,4 +7,4 @@ deatures
 each and every 
 suddently
 dore,one
- ewnjenoen
+ ewnjenoen distance
